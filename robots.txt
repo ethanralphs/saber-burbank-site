@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.burbankmenshaircuts.com/sitemap.xml
+Sitemap: https://burbankmenshaircuts.com/sitemap.xml
